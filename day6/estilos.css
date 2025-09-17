@@ -1,0 +1,15 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+section{
+    gap:20px
+}
+.main-footer{
+    display: flex;
+    padding: 25;
+    margin: 43;
+    width: 10vh;
+    border-radius: 20px;
+}
